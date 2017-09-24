@@ -1,0 +1,10 @@
+c:\users\ddepaul\documents\visual studio 2012\Projects\MartiniGlass\MartiniGlass\bin\Debug\MartiniGlass.exe.config
+c:\users\ddepaul\documents\visual studio 2012\Projects\MartiniGlass\MartiniGlass\bin\Debug\MartiniGlass.exe
+c:\users\ddepaul\documents\visual studio 2012\Projects\MartiniGlass\MartiniGlass\bin\Debug\MartiniGlass.pdb
+c:\users\ddepaul\documents\visual studio 2012\Projects\MartiniGlass\MartiniGlass\obj\Debug\MartiniGlass.exe
+c:\users\ddepaul\documents\visual studio 2012\Projects\MartiniGlass\MartiniGlass\obj\Debug\MartiniGlass.pdb
+C:\Users\ddepaul\Desktop\C# Programs\MartiniGlass\MartiniGlass\bin\Debug\MartiniGlass.exe.config
+C:\Users\ddepaul\Desktop\C# Programs\MartiniGlass\MartiniGlass\obj\Debug\MartiniGlass.exe
+C:\Users\ddepaul\Desktop\C# Programs\MartiniGlass\MartiniGlass\obj\Debug\MartiniGlass.pdb
+C:\Users\ddepaul\Desktop\C# Programs\MartiniGlass\MartiniGlass\bin\Debug\MartiniGlass.exe
+C:\Users\ddepaul\Desktop\C# Programs\MartiniGlass\MartiniGlass\bin\Debug\MartiniGlass.pdb
